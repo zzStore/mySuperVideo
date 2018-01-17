@@ -6,3 +6,4 @@ Video management system with crawler support project for beginner's training
 - 每次提交前请确保你已经同步到最新的状态
 - 每次新开发一个功能前请确保切换到新的分支再进行开发
 - 每次提交请附上详细的说明
+- 请以PR的形式提交你的代码

@@ -1,0 +1,17 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+        driver-class-name: oracle.jdbc.driver.OracleDriver
+        url: jdbc:oracle:thin:@127.0.0.1:1521:orcl
+        username: scott
+        password: tiger
+  jpa:
+    hibernate:
+       ddl-auto: create
+#       ddl-auto: update
+       show-sql: true
+  mvc:
+   view:
+     suffix: .ftl

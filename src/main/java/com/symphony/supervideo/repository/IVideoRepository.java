@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
  * @author zz.
- * @2018/1/18 17:20.
+ * 2018/1/18 17:20.
  * 视频资源接口
  */
 

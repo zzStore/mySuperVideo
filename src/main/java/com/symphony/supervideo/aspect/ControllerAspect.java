@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * @author zz.
- * @2018/1/20 12:17.
+ * 2018/1/20 12:17.
  * 各个控制器的AOP日志
  */
 @Aspect

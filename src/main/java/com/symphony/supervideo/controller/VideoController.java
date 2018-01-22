@@ -10,7 +10,7 @@ import java.io.IOException;
 
 /**
  * @author zz.
- * @2018/1/18 17:04.
+ * 2018/1/18 17:04.
  * 视频资源控制层
  */
 @Controller

@@ -18,7 +18,7 @@ import java.util.List;
 
 /**
  * @author zz.
- * @2018/1/18 17:21.
+ * 2018/1/18 17:21.
  * 视频信息业务逻辑层
  */
 @Service

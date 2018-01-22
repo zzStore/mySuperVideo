@@ -7,7 +7,7 @@ import java.util.Date;
 
 /**
  * @author zz.
- * @2018/1/18 17:07.
+ * 2018/1/18 17:07.
  */
 @Entity
 public class VideoInfo {

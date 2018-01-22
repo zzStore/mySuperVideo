@@ -6,7 +6,7 @@ import javax.persistence.Id;
 
 /**
  * @author zz.
- * @2018/1/17 14:22.
+ * 2018/1/17 14:22.
  * 用户信息实体类
  */
 @Entity

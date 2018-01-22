@@ -14,7 +14,7 @@ import java.io.IOException;
 import java.util.concurrent.CopyOnWriteArraySet;
 /**
  * @author zz.
- * @2018/1/21 07:21.
+ * 2018/1/21 07:21.
  * 双工通信实体类
  */
 @ServerEndpoint("/my-websocket")

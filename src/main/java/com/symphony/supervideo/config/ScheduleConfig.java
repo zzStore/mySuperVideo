@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * @author zz.
- * @2018/1/21 12:29.
+ * 2018/1/21 12:29.
  * 定时任务计划配置类
  */
 @Configuration
